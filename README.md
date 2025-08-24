@@ -21,7 +21,7 @@ The model is built using a **Convolutional Neural Network (CNN)** with stacked c
 
 ## 🛠️ Tech Stack  
 - Python  
-- TensorFlow / Keras (for CNN model)  
+- Keras (for CNN model)  
 - NumPy, Pandas  
 - Matplotlib, Seaborn (for visualization)  
 
